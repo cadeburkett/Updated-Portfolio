@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(189, 201, 211);
+}
+
+.projects-container {
+    padding: 25px;
+}
+
+.project-img-thumbnail {
+    width: 350px;
+    height: 280px;
+}
+
+.title-row {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.container {
+    padding: 15px;
+    margin-top: 20px;
+}
